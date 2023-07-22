@@ -1,0 +1,18 @@
+.text-error {
+    color: red;
+}
+
+.text-field {
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.text-field input {
+    font-size: 36px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.text-field input:focus {
+    border: none;
+}
