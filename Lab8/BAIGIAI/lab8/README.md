@@ -1,0 +1,2 @@
+# Lưu ý bài giải:
+- Trong bài mình dùng context để luyện tập cách dùng và áp dụng bài học, thực tế các props nhỏ như thế không nên dùng cont4ext cho toàn app, ghi chú chỉ dùng context khi thực sự cần thiết
