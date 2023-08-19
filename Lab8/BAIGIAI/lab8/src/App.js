@@ -7,7 +7,7 @@ import TodoList from "./components/TodoList";
 export const TodoContext = createContext([]);
 
 function App() {
-  const [todos, setTodos] = useState(JSON.parse(localStorage.getItem("todos"))); // lấy dữ liệu từ localStorage
+  const [todos, setTodos] = useState(JSON.parse(localStorage.getItem("todos")) || []); // lấy dữ liệu từ localStorage
 
   useEffect(() => {
     localStorage.setItem("todos", JSON.stringify(todos));

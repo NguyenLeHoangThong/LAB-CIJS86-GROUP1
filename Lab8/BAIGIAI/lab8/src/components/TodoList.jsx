@@ -9,7 +9,7 @@ export default function () {
     return (
         <div>
             <ul>
-                {data.map((item) => (
+                {data?.map((item) => (
                     <TodoItem key={item.id} data={item} />
                 ))}
             </ul>
