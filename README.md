@@ -12,3 +12,6 @@ Mình sẽ sửa bài và upload bài giải của từng buổi lên cùng thư
 
 ## Ghi chú:
 - Các bài tập về nhà sẽ được tổng hợp dựa trên nội dung học tập của buổi lý thuyết, sẽ dựa trên Workbook nhưng đôi khi mình sẽ thêm vào các bài tập quan trọng giúp các bạn thực hành tốt hơn, nếu có thắc mắc hoặc phát hiện không hợp lý về đề bài các bạn vui lòng nhắn Zalo vào group học chung hoặc nhắn cho mình nhé (Nguyễn Lê Hoàng Thông)
+
+
+# Final project repo: https://docs.google.com/spreadsheets/d/1siKJ12EgBy-rmwpcAYxG0VbIz6wb9J1cbTdrVCDwzAA/edit#gid=0
